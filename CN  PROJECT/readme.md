@@ -6,6 +6,7 @@ Network Protocol: TCP (Transmission Control Protocol) <br>
 Libraries: java.net, java.io <br>
 
 ### Setup and Configuration
+![Enable ICMPv4 Example](https://github.com/0mehedihasan/Local-Student-Management-System/blob/main/icmpv4.png)
 #### Server (PC1)
 1. Open the project in Eclipse IDE on PC1.
 2. Navigate to the `SERVER` package and locate the `Server.java` file.
